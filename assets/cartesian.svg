@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="cartesian.svg">
+   sodipodi:docname="cartesian.svg"
+   inkscape:export-filename="C:\Users\cwf\Documents\processing_git\ProcessingBasicTutorial\assets\cartesian.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="183.65131"
+     inkscape:cx="61.865596"
      inkscape:cy="232.86975"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
@@ -45,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,7 +57,8 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-164.70834)"
-     sodipodi:insensitive="true">
+     sodipodi:insensitive="true"
+     style="display:none">
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000038;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:16;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
        id="rect812"
